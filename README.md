@@ -1,0 +1,1 @@
+A console-based number guessing game built in Java. The program generates a random number between 1 and 100 and gives the player 7 attempts to guess it. After each guess, it tells you if you went too high or too low. Developed as part of the Java Development Internship at Codveda Technology.
